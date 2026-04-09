@@ -1,6 +1,7 @@
 # python-ai-codes
 AI related codes in Python
 
-ChatGPT
-Gemini
-Claude
+ChatGPT - OpenAI
+Gemini - Google
+Claude - Anthrophic
+
